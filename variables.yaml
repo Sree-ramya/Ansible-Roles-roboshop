@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.ramya.website # submit your host
+REDIS_HOST: redis.ramya.website
+MYSQL_HOST: mysql.ramya.website
+RABBITMQ_HOST: rabbitmq.ramya.website
+CATALOGUE_HOST: catalogue.ramya.website
+USER_HOST: user.ramya.website
+CART_HOST: cart.ramya.website
+SHIPPING_HOST: shipping.ramya.website
+PAYMENT_HOST: payment.ramya.website
+DISPATCH_HOST: dispatch.ramya.website
